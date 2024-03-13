@@ -1,6 +1,10 @@
 # Presentación
 
+<<<<<<< HEAD
 ## Estudiante: Federico Ivan Sanguinetti
+=======
+## Estudiante: _Federico Ivan Sanguinetti
+>>>>>>> a93e69ac1f30e964512b8e008f0f358b37e4e2e9
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
